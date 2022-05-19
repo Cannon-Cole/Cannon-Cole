@@ -1,7 +1,7 @@
 Hi, I’m Cole!<br>
-I’m a fullstack software developer.<br><br>
-I prefer to use React, Django, and Python but I have used Xamarin for android dev, PHP, C++, C#, Java, JavaScript, HTML, CSS, and probably some others that I forgot.<br><br>
-I’m currently learning design patterns, refactoring, docker, kubernetes, and AWS.<br><br>
+I’m a software developer!<br><br>
+I have used React, Django, Xamarin for Android development, PHP, C++, C#, Java, JavaScript, HTML, CSS,<br><br>
+I’m currently learning docker, kubernetes, Jenkins and AWS.<br><br>
 Contact me at colecannonwork@gmail.com
 
 <!---
