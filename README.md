@@ -1,8 +1,6 @@
-Hi, I’m Cole!<br>
-I’m a software developer!<br><br>
+I’m a software developer with an interest in many technologies.<br><br>
 I have used React, Django, Xamarin for Android development, PHP, C++, C#, Java, JavaScript, HTML, CSS,<br><br>
-I’m currently learning docker, kubernetes, Jenkins and AWS.<br><br>
-Contact me at colecannonwork@gmail.com
+Check me out on LinkedIn https://www.linkedin.com/in/colecan/
 
 <!---
 Cannon-Cole/Cannon-Cole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
